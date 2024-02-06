@@ -1,2 +1,2 @@
 # Food-web
-I Devloped This Travle Website Using  Html,Css,javascript 
+I Devloped This Food Website Using  Html,Css,javascript 
